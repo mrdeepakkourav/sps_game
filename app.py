@@ -67,3 +67,6 @@ if st.button("Reset Game"):
     st.session_state.score_user = 0
     st.session_state.score_computer = 0
     st.success("Game reset successfully 🔄")
+
+
+# new update will come 
